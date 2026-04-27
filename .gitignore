@@ -42,3 +42,8 @@ ssh.pub
 # Python Caches
 .ipynb_checkpoints/
 
+
+# Documents
+*.pptx
+*.tex
+
