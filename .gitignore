@@ -47,3 +47,9 @@ ssh.pub
 *.pptx
 *.tex
 
+
+# Archives & Scripts
+*.zip
+make_ppt.py
+fix_*
+
