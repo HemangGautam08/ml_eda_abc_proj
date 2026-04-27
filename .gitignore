@@ -1,0 +1,44 @@
+.DS_Store
+.vscode/
+__pycache__/
+*.o
+*.a
+*.so
+*.exe
+*.out
+*.log
+
+# ABC Binaries
+abc/abc
+abc/abc [0-9]*
+abc/abc_*
+abc/arch_flags*
+abc/make_*.txt
+abc/abc.history
+
+# LaTeX build files
+ml_cut_project/*.aux
+ml_cut_project/*.log
+ml_cut_project/*.pdf
+ml_cut_project/*.toc
+ml_cut_project/*.out
+ml_cut_project/*.nav
+ml_cut_project/*.snm
+ml_cut_project/*.vrb
+ml_cut_project/*.fls
+ml_cut_project/*.fdb_latexmk
+ml_cut_project/*.synctex.gz
+
+# ML Data and Weights
+ml_cut_project/ml/*.pt
+ml_cut_project/ml/*.npz
+ml_cut_project/data/
+ml_cut_project/venv/
+
+# Secrets and Keys
+ssh
+ssh.pub
+
+# Python Caches
+.ipynb_checkpoints/
+

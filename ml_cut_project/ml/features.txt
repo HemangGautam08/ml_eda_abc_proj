@@ -1,0 +1,9 @@
+0	n_leaves
+1	node_level
+2	node_fanout
+3	is_critical
+4	slack_ratio
+5	fanout_adj_area
+6	area_per_leaf
+7	mffc_size
+8	mffc_per_leaf

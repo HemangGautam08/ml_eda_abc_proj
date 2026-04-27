@@ -1,0 +1,9 @@
+======== ABC command line "read_aiger /Users/hemanggautam/Desktop/eda_proj/benchmarks/arithmetic/adder.aig; strash; if -K 6 -C 8; print_stats;"
+[ML] Override summary: 0/0 nodes overridden (0.0%)  [ci=0 nocs=0 nobest=0 same=0 margin=0 leaves=0]
+[ML] Override summary: 0/0 nodes overridden (0.0%)  [ci=0 nocs=0 nobest=0 same=0 margin=0 leaves=0]
+[ML] Override summary: 0/0 nodes overridden (0.0%)  [ci=0 nocs=0 nobest=0 same=0 margin=0 leaves=0]
+[ML] Override summary: 0/0 nodes overridden (0.0%)  [ci=0 nocs=0 nobest=0 same=0 margin=0 leaves=0]
+[ML] Override summary: 0/0 nodes overridden (0.0%)  [ci=0 nocs=0 nobest=0 same=0 margin=0 leaves=0]
+[ML] Override summary: 0/0 nodes overridden (0.0%)  [ci=0 nocs=0 nobest=0 same=0 margin=0 leaves=0]
+[ML] Override summary: 561/1020 nodes overridden (55.0%)  [ci=0 nocs=0 nobest=0 same=459 margin=0 leaves=0]
+[1;37m/Users/hemanggautam/Desktop/eda_proj/benchmarks/arithmetic/adder:[0m i/o =  256/  129  lat =    0  nd =   499  edge =   1493  aig  =  1738  lev = 51
