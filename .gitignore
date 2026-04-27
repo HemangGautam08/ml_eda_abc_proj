@@ -53,3 +53,10 @@ ssh.pub
 make_ppt.py
 fix_*
 
+
+# Temporary Files & Generated Results
+0%,
+abc.history
+debug_qor.py
+results/
+
